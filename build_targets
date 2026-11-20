@@ -37,6 +37,7 @@ onyx userdebug yes [boot.img, init_boot.img, vendor_boot.img, recovery.img, dtbo
 panther userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 peridot userdebug yes [boot.img, init_boot.img, vendor_boot.img, recovery.img]
 redfin userdebug yes [boot.img, dtbo.img, vendor_boot.img]
+rtwo user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vendor_boot.img]
 salami user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 Spacewar userdebug yes [boot.img, vendor_boot.img]
 stallion user yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
